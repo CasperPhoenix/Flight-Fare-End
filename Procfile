@@ -1,1 +1,1 @@
-web:gunicorn Flight_Page:app
+web:gunicorn app:app
